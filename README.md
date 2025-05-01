@@ -33,9 +33,6 @@ app/
 ├─ src/
 │  ├─ main/
 │  │  ├─ java/com/example/
-│  │  │  ├─ kotlindersleri/
-│  │  │  ├─ loginscreen/
-│  │  │  └─ tasarimcalismasi/
 │  ├─ test/
 │  └─ androidTest/
 ```
